@@ -3,7 +3,6 @@
 ## Description
 This project is a decentralised smart contract built using solidity and hardhat.It provide a plateform for buying and selling of commodities and also issueing NFT as a proof of transaction between the buyer and the seller.
 
-## Table of content
 ## Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
