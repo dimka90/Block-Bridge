@@ -25,7 +25,7 @@ git clone https://github.com/dimka90/Block-Bridge.git
     cd Block-Bridge
     ```
 
-1.2 ## Install dependencies##:
+ ## Install dependencies##:
     ``` bash
      npm install
     ```
@@ -35,4 +35,13 @@ git clone https://github.com/dimka90/Block-Bridge.git
 ### Compile Contracts:
 ```bash
 npx hardhat compile
+```
+### Running Test
+```bash
+npx hardhat test
+```
+
+### Deploy the project
+```bash
+npx hardhat run /scripts/deploy.ts --network Lisk
 ```
