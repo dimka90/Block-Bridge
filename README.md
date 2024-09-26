@@ -45,14 +45,16 @@ npx hardhat test
 ```bash
 npx hardhat run /scripts/deploy.ts --network Lisk
 ```
-### Features
+### Present Features
 
 1. Register Buyers and Sellers using there wallet address.
 ### Seller
-- The seller can add commodity to the plateform
-- The seller can sell goods on the plateform
+- The seller can add commodity to the plateform.
+- The seller can sell goods on the plateform.
 - 
 ### Buyers 
-- The buyer can buy goods using the Lisks native token.
+- The buyer can buy goods using Lisks native token.
 - On Successfull payment, an NFT will be issued to the Buyer to signify the own the commodity.
-- 
+### System
+- The smart contract provide the plateform for the buyers and sellers to trade.
+- The smart contract gives rating upon successfull 
