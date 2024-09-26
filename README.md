@@ -20,12 +20,12 @@ This project is a decentralised smart contract built using solidity and hardhat.
 git clone https://github.com/dimka90/Block-Bridge.git
 ```
 
-**Navigate to the project directory**:
+1.1 ## Navigate to the project directory ##:
     ```bash
     cd Block-Bridge
     ```
 
-**Install dependencies**:
+1.2 ## Install dependencies##:
     ``` bash
      npm install
     ```
