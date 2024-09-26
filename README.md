@@ -14,4 +14,25 @@ This project is a decentralised smart contract built using solidity and hardhat.
 8. [Contributing](#contributing)
 9. [License](#license)
 
+## Installation
+1. clone the repository
+'''
+git clone https://github.com/dimka90/Block-Bridge.git
+'''
 
+2.1**Navigate to the project directory**:
+    ```bash
+    cd Block-Bridge
+    ```
+
+2.2**Install dependencies**:
+    ```bash
+    npm install
+    ```
+
+## Usage
+
+2.3 ### Compile Contracts:
+```bash
+npx hardhat compile
+```
